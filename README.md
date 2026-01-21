@@ -24,7 +24,7 @@ This matches how a real queue works (first in, first out).
 - View all tasks across all priorities
 
 ## How to Run
-1. Save the file as `task_manager.py`
+1. Save the file as `m1.py`
 2. Run:
    ```bash
    python task_manager.py
